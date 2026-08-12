@@ -110,6 +110,4 @@ Creates an optimized production build in the `build/` folder.
 
 Built as part of a front-end development capstone course, focused on practicing React fundamentals: component architecture, hooks (`useState`, `useReducer`), routing, form validation, and unit testing.
 =======
-# Little-Lemon
-A responsive restaurant website built with React for Little Lemon.
->>>>>>> 5710631b6a533092933ce9924fe42ee141dc9627
+
