@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Little Lemon Restaurant — React App
+Little Lemon Restaurant — React App
 
 A responsive front-end web application for **Little Lemon**, a fictional Mediterranean restaurant, built with React as part of a peer-reviewed capstone project. The app allows visitors to learn about the restaurant, browse the menu, and book a table through a fully validated reservation form.
 
